@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project_start</string>
+    <string name="day">Номер_дня</string>
+    <string name="medication">Название_препарата</string>
+</resources>
